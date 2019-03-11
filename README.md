@@ -6,4 +6,4 @@ The Repository Contains
 + The Test Cases
 + The Necessary Reading 
 
-* A Special Thanks to [DailyCodingProblem.com](https://www.dailycodingproblem.com/) for free problems.
+_A Special Thanks to [DailyCodingProblem.com](https://www.dailycodingproblem.com/) for free problems_
